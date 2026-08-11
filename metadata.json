@@ -1,0 +1,6 @@
+{
+  "name": "Graphic Designer Portfolio",
+  "description": "A clean, minimal, fully responsive portfolio for a graphic designer featuring selected case studies, interactive project modals, skills grid, and contact section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
