@@ -19,15 +19,15 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
 
       {/* Decorative Grid Markers (Swiss Typographic Grid aesthetics) */}
       <div className="absolute top-8 left-8 hidden lg:flex items-center gap-2 text-[10px] font-mono tracking-widest text-neutral-400 uppercase pointer-events-none">
-        <span>GRID SYSTEM // 01</span>
+        <span>BRAND STRATEGY // 01</span>
         <span>•</span>
         <span>ZURICH / LONDON</span>
       </div>
 
       <div className="absolute top-8 right-8 hidden lg:flex items-center gap-2 text-[10px] font-mono tracking-widest text-neutral-400 uppercase pointer-events-none">
-        <span>SWISS TYPOGRAPHY</span>
+        <span>LAYOUT DESIGN</span>
         <span>•</span>
-        <span>2026 EDITION</span>
+        <span>PRINT</span>
       </div>
 
       <div className="relative z-10 max-w-5xl mx-auto text-center flex flex-col items-center">
