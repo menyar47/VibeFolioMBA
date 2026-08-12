@@ -21,7 +21,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
       <div className="absolute top-8 left-8 hidden lg:flex items-center gap-2 text-[10px] font-mono tracking-widest text-neutral-400 uppercase pointer-events-none">
         <span>BRAND STRATEGY // 01</span>
         <span>•</span>
-        <span>ZURICH / LONDON</span>
+        <span>MONTREAL / QUEBEC</span>
       </div>
 
       <div className="absolute top-8 right-8 hidden lg:flex items-center gap-2 text-[10px] font-mono tracking-widest text-neutral-400 uppercase pointer-events-none">
