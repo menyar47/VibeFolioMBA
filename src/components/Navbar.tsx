@@ -64,7 +64,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onNavigate }) => {
           className="group flex items-center gap-2 text-left focus:outline-hidden"
         >
           <span className="font-black text-xl md:text-2xl tracking-tighter text-neutral-900 group-hover:text-blue-600 transition-colors">
-            JULIAN VANCE<span className="text-blue-600">.</span>
+            MENYAR BEN ALAYA<span className="text-blue-600">.</span>
           </span>
           <span className="hidden sm:inline-block text-xs font-semibold text-neutral-400 border-l border-neutral-200 pl-3 uppercase tracking-wider">
             Graphic Designer

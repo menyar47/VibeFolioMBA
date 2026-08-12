@@ -150,7 +150,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
               </div>
               <div>
                 <span className="block text-[11px] font-mono text-neutral-400 uppercase tracking-wider">Lead Designer</span>
-                <span className="text-sm font-bold text-neutral-900">Julian Vance</span>
+                <span className="text-sm font-bold text-neutral-900">Menyar Ben Alaya</span>
               </div>
             </div>
 

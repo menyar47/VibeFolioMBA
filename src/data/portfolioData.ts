@@ -4,7 +4,7 @@ import editorialImg from '../assets/images/editorial_design_case_study_178646639
 import packagingImg from '../assets/images/packaging_design_case_study_1786466411476.jpg';
 
 export const designerInfo = {
-  name: 'JULIAN VANCE',
+  name: 'MENYAR BEN ALAYA',
   role: 'Graphic & Visual Systems Designer',
   shortBio: 'Crafting memorable visual identities, Swiss typography, and timeless design systems for visionary brands.',
   aboutBio: 'With over eight years of experience operating at the intersection of brand strategy, publication layout, and digital design systems, I help ambitious companies translate complex ideas into clear, iconic visual identities. My methodology is rooted in structural grids, intentional typography, and bold minimal contrast.',

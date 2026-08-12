@@ -23,7 +23,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           </span>
           <span className="hidden sm:inline text-neutral-300">•</span>
           <p className="text-xs text-neutral-500 font-mono">
-            © {currentYear} Julian Vance. All rights reserved.
+            © {currentYear} Menyar Ben Alaya. All rights reserved.
           </p>
         </div>
 
